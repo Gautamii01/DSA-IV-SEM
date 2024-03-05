@@ -10,4 +10,5 @@ void main()
         printf("%d is a positive number \n", number);
     else
         printf("%d is a negative number \n", number);
+    return 0;
 }
